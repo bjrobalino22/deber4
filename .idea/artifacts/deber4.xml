@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="deber4">
+    <output-path>$PROJECT_DIR$/out/artifacts/deber4</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="deber4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="deber4/web/Web" />
+    </root>
+  </artifact>
+</component>
